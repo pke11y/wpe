@@ -6,6 +6,11 @@ class BankAccount(object):
     def __init__(self, transactions=[]) -> None:
         self.transactions = transactions
 
+    def balance(self):
+        return sum(self.transactions)
+    
+    def average(self):
+        return self.balance / len(self.transactions)
     # @property
     # def transactions(self) -> list:
     #     return self._transactions
