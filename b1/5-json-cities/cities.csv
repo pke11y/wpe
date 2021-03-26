@@ -1,1001 +1,1000 @@
-City	Rank	Population	State
-New York	8405837	1	New York
-Los Angeles	3884307	2	California
-Chicago	2718782	3	Illinois
-Houston	2195914	4	Texas
-Philadelphia	1553165	5	Pennsylvania
-Phoenix	1513367	6	Arizona
-San Antonio	1409019	7	Texas
-San Diego	1355896	8	California
-Dallas	1257676	9	Texas
-San Jose	998537	10	California
-Austin	885400	11	Texas
-Indianapolis	843393	12	Indiana
-Jacksonville	842583	13	Florida
-San Francisco	837442	14	California
-Columbus	822553	15	Ohio
-Charlotte	792862	16	North Carolina
-Fort Worth	792727	17	Texas
-Detroit	688701	18	Michigan
-El Paso	674433	19	Texas
-Memphis	653450	20	Tennessee
-Seattle	652405	21	Washington
-Denver	649495	22	Colorado
-Washington	646449	23	District of Columbia
-Boston	645966	24	Massachusetts
-Nashville-Davidson	634464	25	Tennessee
-Baltimore	622104	26	Maryland
-Oklahoma City	610613	27	Oklahoma
-Louisville/Jefferson County	609893	28	Kentucky
-Portland	609456	29	Oregon
-Las Vegas	603488	30	Nevada
-Milwaukee	599164	31	Wisconsin
-Albuquerque	556495	32	New Mexico
-Tucson	526116	33	Arizona
-Fresno	509924	34	California
-Sacramento	479686	35	California
-Long Beach	469428	36	California
-Kansas City	467007	37	Missouri
-Mesa	457587	38	Arizona
-Virginia Beach	448479	39	Virginia
-Atlanta	447841	40	Georgia
-Colorado Springs	439886	41	Colorado
-Omaha	434353	42	Nebraska
-Raleigh	431746	43	North Carolina
-Miami	417650	44	Florida
-Oakland	406253	45	California
-Minneapolis	400070	46	Minnesota
-Tulsa	398121	47	Oklahoma
-Cleveland	390113	48	Ohio
-Wichita	386552	49	Kansas
-Arlington	379577	50	Texas
-New Orleans	378715	51	Louisiana
-Bakersfield	363630	52	California
-Tampa	352957	53	Florida
-Honolulu	347884	54	Hawaii
-Aurora	345803	55	Colorado
-Anaheim	345012	56	California
-Santa Ana	334227	57	California
-St. Louis	318416	58	Missouri
-Riverside	316619	59	California
-Corpus Christi	316381	60	Texas
-Lexington-Fayette	308428	61	Kentucky
-Pittsburgh	305841	62	Pennsylvania
-Anchorage	300950	63	Alaska
-Stockton	298118	64	California
-Cincinnati	297517	65	Ohio
-St. Paul	294873	66	Minnesota
-Toledo	282313	67	Ohio
-Greensboro	279639	68	North Carolina
-Newark	278427	69	New Jersey
-Plano	274409	70	Texas
-Henderson	270811	71	Nevada
-Lincoln	268738	72	Nebraska
-Buffalo	258959	73	New York
-Jersey City	257342	74	New Jersey
-Chula Vista	256780	75	California
-Fort Wayne	256496	76	Indiana
-Orlando	255483	77	Florida
-St. Petersburg	249688	78	Florida
-Chandler	249146	79	Arizona
-Laredo	248142	80	Texas
-Norfolk	246139	81	Virginia
-Durham	245475	82	North Carolina
-Madison	243344	83	Wisconsin
-Lubbock	239538	84	Texas
-Irvine	236716	85	California
-Winston-Salem	236441	86	North Carolina
-Glendale	234632	87	Arizona
-Garland	234566	88	Texas
-Hialeah	233394	89	Florida
-Reno	233294	90	Nevada
-Chesapeake	230571	91	Virginia
-Gilbert	229972	92	Arizona
-Baton Rouge	229426	93	Louisiana
-Irving	228653	94	Texas
-Scottsdale	226918	95	Arizona
-North Las Vegas	226877	96	Nevada
-Fremont	224922	97	California
-Boise City	214237	98	Idaho
-Richmond	214114	99	Virginia
-San Bernardino	213708	100	California
-Birmingham	212113	101	Alabama
-Spokane	210721	102	Washington
-Rochester	210358	103	New York
-Des Moines	207510	104	Iowa
-Modesto	204933	105	California
-Fayetteville	204408	106	North Carolina
-Tacoma	203446	107	Washington
-Oxnard	203007	108	California
-Fontana	203003	109	California
-Columbus	202824	110	Georgia
-Montgomery	201332	111	Alabama
-Moreno Valley	201175	112	California
-Shreveport	200327	113	Louisiana
-Aurora	199963	114	Illinois
-Yonkers	199766	115	New York
-Akron	198100	116	Ohio
-Huntington Beach	197575	117	California
-Little Rock	197357	118	Arkansas
-Augusta-Richmond County	197350	119	Georgia
-Amarillo	196429	120	Texas
-Glendale	196021	121	California
-Mobile	194899	122	Alabama
-Grand Rapids	192294	123	Michigan
-Salt Lake City	191180	124	Utah
-Tallahassee	186411	125	Florida
-Huntsville	186254	126	Alabama
-Grand Prairie	183372	127	Texas
-Knoxville	183270	128	Tennessee
-Worcester	182544	129	Massachusetts
-Newport News	182020	130	Virginia
-Brownsville	181860	131	Texas
-Overland Park	181260	132	Kansas
-Santa Clarita	179590	133	California
-Providence	177994	134	Rhode Island
-Garden Grove	175140	135	California
-Chattanooga	173366	136	Tennessee
-Oceanside	172794	137	California
-Jackson	172638	138	Mississippi
-Fort Lauderdale	172389	139	Florida
-Santa Rosa	171990	140	California
-Rancho Cucamonga	171386	141	California
-Port St. Lucie	171016	142	Florida
-Tempe	168228	143	Arizona
-Ontario	167500	144	California
-Vancouver	167405	145	Washington
-Cape Coral	165831	146	Florida
-Sioux Falls	164676	147	South Dakota
-Springfield	164122	148	Missouri
-Peoria	162592	149	Arizona
-Pembroke Pines	162329	150	Florida
-Elk Grove	161007	151	California
-Salem	160614	152	Oregon
-Lancaster	159523	153	California
-Corona	159503	154	California
-Eugene	159190	155	Oregon
-Palmdale	157161	156	California
-Salinas	155662	157	California
-Springfield	153703	158	Massachusetts
-Pasadena	152735	159	Texas
-Fort Collins	152061	160	Colorado
-Hayward	151574	161	California
-Pomona	151348	162	California
-Cary	151088	163	North Carolina
-Rockford	150251	164	Illinois
-Alexandria	148892	165	Virginia
-Escondido	148738	166	California
-McKinney	148559	167	Texas
-Kansas City	148483	168	Kansas
-Joliet	147806	169	Illinois
-Sunnyvale	147559	170	California
-Torrance	147478	171	California
-Bridgeport	147216	172	Connecticut
-Lakewood	147214	173	Colorado
-Hollywood	146526	174	Florida
-Paterson	145948	175	New Jersey
-Naperville	144864	176	Illinois
-Syracuse	144669	177	New York
-Mesquite	143484	178	Texas
-Dayton	143355	179	Ohio
-Savannah	142772	180	Georgia
-Clarksville	142357	181	Tennessee
-Orange	139969	182	California
-Pasadena	139731	183	California
-Fullerton	138981	184	California
-Killeen	137147	185	Texas
-Frisco	136791	186	Texas
-Hampton	136699	187	Virginia
-McAllen	136639	188	Texas
-Warren	134873	189	Michigan
-Bellevue	133992	190	Washington
-West Valley City	133579	191	Utah
-Columbia	133358	192	South Carolina
-Olathe	131885	193	Kansas
-Sterling Heights	131224	194	Michigan
-New Haven	130660	195	Connecticut
-Miramar	130288	196	Florida
-Waco	129030	197	Texas
-Thousand Oaks	128731	198	California
-Cedar Rapids	128429	199	Iowa
-Charleston	127999	200	South Carolina
-Visalia	127763	201	California
-Topeka	127679	202	Kansas
-Elizabeth	127558	203	New Jersey
-Gainesville	127488	204	Florida
-Thornton	127359	205	Colorado
-Roseville	127035	206	California
-Carrollton	126700	207	Texas
-Coral Springs	126604	208	Florida
-Stamford	126456	209	Connecticut
-Simi Valley	126181	210	California
-Concord	125880	211	California
-Hartford	125017	212	Connecticut
-Kent	124435	213	Washington
-Lafayette	124276	214	Louisiana
-Midland	123933	215	Texas
-Surprise	123546	216	Arizona
-Denton	123099	217	Texas
-Victorville	121096	218	California
-Evansville	120310	219	Indiana
-Santa Clara	120245	220	California
-Abilene	120099	221	Texas
-Athens-Clarke County	119980	222	Georgia
-Vallejo	118837	223	California
-Allentown	118577	224	Pennsylvania
-Norman	118197	225	Oklahoma
-Beaumont	117796	226	Texas
-Independence	117240	227	Missouri
-Murfreesboro	117044	228	Tennessee
-Ann Arbor	117025	229	Michigan
-Springfield	117006	230	Illinois
-Berkeley	116768	231	California
-Peoria	116513	232	Illinois
-Provo	116288	233	Utah
-El Monte	115708	234	California
-Columbia	115276	235	Missouri
-Lansing	113972	236	Michigan
-Fargo	113658	237	North Dakota
-Downey	113242	238	California
-Costa Mesa	112174	239	California
-Wilmington	112067	240	North Carolina
-Arvada	111707	241	Colorado
-Inglewood	111542	242	California
-Miami Gardens	111378	243	Florida
-Carlsbad	110972	244	California
-Westminster	110945	245	Colorado
-Rochester	110742	246	Minnesota
-Odessa	110720	247	Texas
-Manchester	110378	248	New Hampshire
-Elgin	110145	249	Illinois
-West Jordan	110077	250	Utah
-Round Rock	109821	251	Texas
-Clearwater	109703	252	Florida
-Waterbury	109676	253	Connecticut
-Gresham	109397	254	Oregon
-Fairfield	109320	255	California
-Billings	109059	256	Montana
-Lowell	108861	257	Massachusetts
-San Buenaventura (Ventura)	108817	258	California
-Pueblo	108249	259	Colorado
-High Point	107741	260	North Carolina
-West Covina	107740	261	California
-Richmond	107571	262	California
-Murrieta	107479	263	California
-Cambridge	107289	264	Massachusetts
-Antioch	107100	265	California
-Temecula	106780	266	California
-Norwalk	106589	267	California
-Centennial	106114	268	Colorado
-Everett	105370	269	Washington
-Palm Bay	104898	270	Florida
-Wichita Falls	104898	271	Texas
-Green Bay	104779	272	Wisconsin
-Daly City	104739	273	California
-Burbank	104709	274	California
-Richardson	104475	275	Texas
-Pompano Beach	104410	276	Florida
-North Charleston	104054	277	South Carolina
-Broken Arrow	103500	278	Oklahoma
-Boulder	103166	279	Colorado
-West Palm Beach	102436	280	Florida
-Santa Maria	102216	281	California
-El Cajon	102211	282	California
-Davenport	102157	283	Iowa
-Rialto	101910	284	California
-Las Cruces	101324	285	New Mexico
-San Mateo	101128	286	California
-Lewisville	101074	287	Texas
-South Bend	100886	288	Indiana
-Lakeland	100710	289	Florida
-Erie	100671	290	Pennsylvania
-Tyler	100223	291	Texas
-Pearland	100065	292	Texas
-College Station	100050	293	Texas
-Kenosha	99889	294	Wisconsin
-Sandy Springs	99770	295	Georgia
-Clovis	99769	296	California
-Flint	99763	297	Michigan
-Roanoke	98465	298	Virginia
-Albany	98424	299	New York
-Jurupa Valley	98030	300	California
-Compton	97877	301	California
-San Angelo	97492	302	Texas
-Hillsboro	97368	303	Oregon
-Lawton	97151	304	Oklahoma
-Renton	97003	305	Washington
-Vista	96929	306	California
-Davie	96830	307	Florida
-Greeley	96539	308	Colorado
-Mission Viejo	96346	309	California
-Portsmouth	96205	310	Virginia
-Dearborn	95884	311	Michigan
-South Gate	95677	312	California
-Tuscaloosa	95334	313	Alabama
-Livonia	95208	314	Michigan
-New Bedford	95078	315	Massachusetts
-Vacaville	94275	316	California
-Brockton	94089	317	Massachusetts
-Roswell	94034	318	Georgia
-Beaverton	93542	319	Oregon
-Quincy	93494	320	Massachusetts
-Sparks	93282	321	Nevada
-Yakima	93257	322	Washington
-Lee's Summit	93184	323	Missouri
-Federal Way	92734	324	Washington
-Carson	92599	325	California
-Santa Monica	92472	326	California
-Hesperia	92147	327	California
-Allen	92020	328	Texas
-Rio Rancho	91956	329	New Mexico
-Yuma	91923	330	Arizona
-Westminster	91739	331	California
-Orem	91648	332	Utah
-Lynn	91589	333	Massachusetts
-Redding	91119	334	California
-Spokane Valley	91113	335	Washington
-Miami Beach	91026	336	Florida
-League City	90983	337	Texas
-Lawrence	90811	338	Kansas
-Santa Barbara	90412	339	California
-Plantation	90268	340	Florida
-Sandy	90231	341	Utah
-Sunrise	90116	342	Florida
-Macon	89981	343	Georgia
-Longmont	89919	344	Colorado
-Boca Raton	89407	345	Florida
-San Marcos	89387	346	California
-Greenville	89130	347	North Carolina
-Waukegan	88826	348	Illinois
-Fall River	88697	349	Massachusetts
-Chico	88077	350	California
-Newton	87971	351	Massachusetts
-San Leandro	87965	352	California
-Reading	87893	353	Pennsylvania
-Norwalk	87776	354	Connecticut
-Fort Smith	87650	355	Arkansas
-Newport Beach	87273	356	California
-Asheville	87236	357	North Carolina
-Nashua	87137	358	New Hampshire
-Edmond	87004	359	Oklahoma
-Whittier	86635	360	California
-Nampa	86518	361	Idaho
-Bloomington	86319	362	Minnesota
-Deltona	86290	363	Florida
-Hawthorne	86199	364	California
-Duluth	86128	365	Minnesota
-Carmel	85927	366	Indiana
-Suffolk	85728	367	Virginia
-Clifton	85390	368	New Jersey
-Citrus Heights	85285	369	California
-Livermore	85156	370	California
-Tracy	84691	371	California
-Alhambra	84577	372	California
-Kirkland	84430	373	Washington
-Trenton	84349	374	New Jersey
-Ogden	84249	375	Utah
-Hoover	84126	376	Alabama
-Cicero	84103	377	Illinois
-Fishers	83891	378	Indiana
-Sugar Land	83860	379	Texas
-Danbury	83684	380	Connecticut
-Meridian	83596	381	Idaho
-Indio	83539	382	California
-Concord	83506	383	North Carolina
-Menifee	83447	384	California
-Champaign	83424	385	Illinois
-Buena Park	82882	386	California
-Troy	82821	387	Michigan
-O'Fallon	82809	388	Missouri
-Johns Creek	82788	389	Georgia
-Bellingham	82631	390	Washington
-Westland	82578	391	Michigan
-Bloomington	82575	392	Indiana
-Sioux City	82459	393	Iowa
-Warwick	81971	394	Rhode Island
-Hemet	81750	395	California
-Longview	81443	396	Texas
-Farmington Hills	81295	397	Michigan
-Bend	81236	398	Oregon
-Lakewood	81121	399	California
-Merced	81102	400	California
-Mission	81050	401	Texas
-Chino	80988	402	California
-Redwood City	80872	403	California
-Edinburg	80836	404	Texas
-Cranston	80566	405	Rhode Island
-Parma	80429	406	Ohio
-New Rochelle	79446	407	New York
-Lake Forest	79312	408	California
-Napa	79068	409	California
-Hammond	78967	410	Indiana
-Fayetteville	78960	411	Arkansas
-Bloomington	78902	412	Illinois
-Avondale	78822	413	Arizona
-Somerville	78804	414	Massachusetts
-Palm Coast	78740	415	Florida
-Bryan	78709	416	Texas
-Gary	78450	417	Indiana
-Largo	78409	418	Florida
-Brooklyn Park	78373	419	Minnesota
-Tustin	78327	420	California
-Racine	78199	421	Wisconsin
-Deerfield Beach	78041	422	Florida
-Lynchburg	78014	423	Virginia
-Mountain View	77846	424	California
-Medford	77677	425	Oregon
-Lawrence	77657	426	Massachusetts
-Bellflower	77593	427	California
-Melbourne	77508	428	Florida
-St. Joseph	77147	429	Missouri
-Camden	76903	430	New Jersey
-St. George	76817	431	Utah
-Kennewick	76762	432	Washington
-Baldwin Park	76635	433	California
-Chino Hills	76572	434	California
-Alameda	76419	435	California
-Albany	76185	436	Georgia
-Arlington Heights	75994	437	Illinois
-Scranton	75806	438	Pennsylvania
-Evanston	75570	439	Illinois
-Kalamazoo	75548	440	Michigan
-Baytown	75418	441	Texas
-Upland	75413	442	California
-Springdale	75229	443	Arkansas
-Bethlehem	75018	444	Pennsylvania
-Schaumburg	74907	445	Illinois
-Mount Pleasant	74885	446	South Carolina
-Auburn	74860	447	Washington
-Decatur	74710	448	Illinois
-San Ramon	74513	449	California
-Pleasanton	74110	450	California
-Wyoming	74100	451	Michigan
-Lake Charles	74024	452	Louisiana
-Plymouth	73987	453	Minnesota
-Bolingbrook	73936	454	Illinois
-Pharr	73790	455	Texas
-Appleton	73596	456	Wisconsin
-Gastonia	73209	457	North Carolina
-Folsom	73098	458	California
-Southfield	73006	459	Michigan
-Rochester Hills	72952	460	Michigan
-New Britain	72939	461	Connecticut
-Goodyear	72864	462	Arizona
-Canton	72535	463	Ohio
-Warner Robins	72531	464	Georgia
-Union City	72528	465	California
-Perris	72326	466	California
-Manteca	71948	467	California
-Iowa City	71591	468	Iowa
-Jonesboro	71551	469	Arkansas
-Wilmington	71525	470	Delaware
-Lynwood	71371	471	California
-Loveland	71334	472	Colorado
-Pawtucket	71172	473	Rhode Island
-Boynton Beach	71097	474	Florida
-Waukesha	71016	475	Wisconsin
-Gulfport	71012	476	Mississippi
-Apple Valley	70924	477	California
-Passaic	70868	478	New Jersey
-Rapid City	70812	479	South Dakota
-Layton	70790	480	Utah
-Lafayette	70373	481	Indiana
-Turlock	70365	482	California
-Muncie	70316	483	Indiana
-Temple	70190	484	Texas
-Missouri City	70185	485	Texas
-Redlands	69999	486	California
-Santa Fe	69976	487	New Mexico
-Lauderhill	69813	488	Florida
-Milpitas	69783	489	California
-Palatine	69350	490	Illinois
-Missoula	69122	491	Montana
-Rock Hill	69103	492	South Carolina
-Jacksonville	69079	493	North Carolina
-Franklin	68886	494	Tennessee
-Flagstaff	68667	495	Arizona
-Flower Mound	68609	496	Texas
-Weston	68388	497	Florida
-Waterloo	68366	498	Iowa
-Union City	68247	499	New Jersey
-Mount Vernon	68224	500	New York
-Fort Myers	68190	501	Florida
-Dothan	68001	502	Alabama
-Rancho Cordova	67911	503	California
-Redondo Beach	67815	504	California
-Jackson	67685	505	Tennessee
-Pasco	67599	506	Washington
-St. Charles	67569	507	Missouri
-Eau Claire	67545	508	Wisconsin
-North Richland Hills	67317	509	Texas
-Bismarck	67034	510	North Dakota
-Yorba Linda	67032	511	California
-Kenner	66975	512	Louisiana
-Walnut Creek	66900	513	California
-Frederick	66893	514	Maryland
-Oshkosh	66778	515	Wisconsin
-Pittsburg	66695	516	California
-Palo Alto	66642	517	California
-Bossier City	66333	518	Louisiana
-Portland	66318	519	Maine
-St. Cloud	66297	520	Minnesota
-Davis	66205	521	California
-South San Francisco	66174	522	California
-Camarillo	66086	523	California
-North Little Rock	66075	524	Arkansas
-Schenectady	65902	525	New York
-Gaithersburg	65690	526	Maryland
-Harlingen	65665	527	Texas
-Woodbury	65656	528	Minnesota
-Eagan	65453	529	Minnesota
-Yuba City	65416	530	California
-Maple Grove	65415	531	Minnesota
-Youngstown	65184	532	Ohio
-Skokie	65176	533	Illinois
-Kissimmee	65173	534	Florida
-Johnson City	65123	535	Tennessee
-Victoria	65098	536	Texas
-San Clemente	65040	537	California
-Bayonne	65028	538	New Jersey
-Laguna Niguel	64652	539	California
-East Orange	64544	540	New Jersey
-Shawnee	64323	541	Kansas
-Homestead	64079	542	Florida
-Rockville	64072	544	Maryland
-Delray Beach	64072	543	Florida
-Janesville	63820	545	Wisconsin
-Conway	63816	546	Arkansas
-Pico Rivera	63771	547	California
-Lorain	63710	548	Ohio
-Montebello	63495	549	California
-Lodi	63338	550	California
-New Braunfels	63279	551	Texas
-Marysville	63269	552	Washington
-Tamarac	63155	553	Florida
-Madera	63105	554	California
-Conroe	63032	555	Texas
-Santa Cruz	62864	556	California
-Eden Prairie	62603	557	Minnesota
-Cheyenne	62448	558	Wyoming
-Daytona Beach	62316	559	Florida
-Alpharetta	62298	560	Georgia
-Hamilton	62258	561	Ohio
-Waltham	62227	562	Massachusetts
-Coon Rapids	62103	563	Minnesota
-Haverhill	62088	564	Massachusetts
-Council Bluffs	61969	565	Iowa
-Taylor	61817	566	Michigan
-Utica	61808	567	New York
-Ames	61792	568	Iowa
-La Habra	61653	569	California
-Encinitas	61588	570	California
-Bowling Green	61488	571	Kentucky
-Burnsville	61434	572	Minnesota
-Greenville	61397	573	South Carolina
-West Des Moines	61255	574	Iowa
-Cedar Park	61238	575	Texas
-Tulare	61170	576	California
-Monterey Park	61085	577	California
-Vineland	61050	578	New Jersey
-Terre Haute	61025	579	Indiana
-North Miami	61007	580	Florida
-Mansfield	60872	581	Texas
-West Allis	60697	582	Wisconsin
-Bristol	60568	583	Connecticut
-Taylorsville	60519	584	Utah
-Malden	60509	585	Massachusetts
-Meriden	60456	586	Connecticut
-Blaine	60407	587	Minnesota
-Wellington	60202	588	Florida
-Cupertino	60189	589	California
-Springfield	60177	590	Oregon
-Rogers	60112	591	Arkansas
-St. Clair Shores	60070	592	Michigan
-Gardena	59957	593	California
-Pontiac	59887	594	Michigan
-National City	59834	595	California
-Grand Junction	59778	596	Colorado
-Rocklin	59738	597	California
-Chapel Hill	59635	598	North Carolina
-Casper	59628	599	Wyoming
-Broomfield	59471	600	Colorado
-Petaluma	59440	601	California
-South Jordan	59366	602	Utah
-Springfield	59357	603	Ohio
-Great Falls	59351	604	Montana
-Lancaster	59325	605	Pennsylvania
-North Port	59212	606	Florida
-Lakewood	59097	607	Washington
-Marietta	59089	608	Georgia
-San Rafael	58994	609	California
-Royal Oak	58946	610	Michigan
-Des Plaines	58918	611	Illinois
-Huntington Park	58879	612	California
-La Mesa	58642	613	California
-Orland Park	58590	614	Illinois
-Auburn	58582	615	Alabama
-Lakeville	58562	616	Minnesota
-Owensboro	58416	617	Kentucky
-Moore	58414	618	Oklahoma
-Jupiter	58298	619	Florida
-Idaho Falls	58292	620	Idaho
-Dubuque	58253	621	Iowa
-Bartlett	58226	622	Tennessee
-Rowlett	58043	623	Texas
-Novi	57960	624	Michigan
-White Plains	57866	625	New York
-Arcadia	57639	626	California
-Redmond	57530	627	Washington
-Lake Elsinore	57525	628	California
-Ocala	57468	629	Florida
-Tinley Park	57282	630	Illinois
-Port Orange	57203	631	Florida
-Medford	57170	632	Massachusetts
-Oak Lawn	57073	633	Illinois
-Rocky Mount	56954	634	North Carolina
-Kokomo	56895	635	Indiana
-Coconut Creek	56792	636	Florida
-Bowie	56759	637	Maryland
-Berwyn	56758	638	Illinois
-Midwest City	56756	639	Oklahoma
-Fountain Valley	56707	640	California
-Buckeye	56683	641	Arizona
-Dearborn Heights	56620	642	Michigan
-Woodland	56590	643	California
-Noblesville	56540	644	Indiana
-Valdosta	56481	645	Georgia
-Diamond Bar	56449	646	California
-Manhattan	56143	647	Kansas
-Santee	56105	648	California
-Taunton	56069	649	Massachusetts
-Sanford	56002	650	Florida
-Kettering	55870	651	Ohio
-New Brunswick	55831	652	New Jersey
-Decatur	55816	653	Alabama
-Chicopee	55717	654	Massachusetts
-Anderson	55670	655	Indiana
-Margate	55456	656	Florida
-Weymouth Town	55419	657	Massachusetts
-Hempstead	55361	658	New York
-Corvallis	55298	659	Oregon
-Eastvale	55191	660	California
-Porterville	55174	661	California
-West Haven	55046	662	Connecticut
-Brentwood	55000	663	California
-Paramount	54980	664	California
-Grand Forks	54932	665	North Dakota
-Georgetown	54898	666	Texas
-St. Peters	54842	667	Missouri
-Shoreline	54790	668	Washington
-Mount Prospect	54771	669	Illinois
-Hanford	54686	670	California
-Normal	54664	671	Illinois
-Rosemead	54561	672	California
-Lehi	54382	673	Utah
-Pocatello	54350	674	Idaho
-Highland	54291	675	California
-Novato	54194	676	California
-Port Arthur	54135	677	Texas
-Carson City	54080	678	Nevada
-San Marcos	54076	679	Texas
-Hendersonville	54068	680	Tennessee
-Elyria	53956	681	Ohio
-Revere	53756	682	Massachusetts
-Pflugerville	53752	683	Texas
-Greenwood	53665	684	Indiana
-Bellevue	53663	685	Nebraska
-Wheaton	53648	686	Illinois
-Smyrna	53438	687	Georgia
-Sarasota	53326	688	Florida
-Blue Springs	53294	689	Missouri
-Colton	53243	690	California
-Euless	53224	691	Texas
-Castle Rock	53063	692	Colorado
-Cathedral City	52977	693	California
-Kingsport	52962	694	Tennessee
-Lake Havasu City	52844	695	Arizona
-Pensacola	52703	696	Florida
-Hoboken	52575	697	New Jersey
-Yucaipa	52536	698	California
-Watsonville	52477	699	California
-Richland	52413	700	Washington
-Delano	52403	701	California
-Hoffman Estates	52398	702	Illinois
-Florissant	52363	703	Missouri
-Placentia	52206	704	California
-West New York	52122	705	New Jersey
-Dublin	52105	706	California
-Oak Park	52066	707	Illinois
-Peabody	52044	708	Massachusetts
-Perth Amboy	51982	709	New Jersey
-Battle Creek	51848	710	Michigan
-Bradenton	51763	711	Florida
-Gilroy	51701	712	California
-Milford	51644	713	Connecticut
-Albany	51583	714	Oregon
-Ankeny	51567	715	Iowa
-La Crosse	51522	716	Wisconsin
-Burlington	51510	717	North Carolina
-DeSoto	51483	718	Texas
-Harrisonburg	51395	719	Virginia
-Minnetonka	51368	720	Minnesota
-Elkhart	51265	721	Indiana
-Lakewood	51143	722	Ohio
-Glendora	51074	723	California
-Southaven	50997	724	Mississippi
-Charleston	50821	725	West Virginia
-Joplin	50789	726	Missouri
-Enid	50725	727	Oklahoma
-Palm Beach Gardens	50699	728	Florida
-Brookhaven	50603	729	Georgia
-Plainfield	50588	730	New Jersey
-Grand Island	50550	731	Nebraska
-Palm Desert	50508	732	California
-Huntersville	50458	733	North Carolina
-Tigard	50444	734	Oregon
-Lenexa	50344	735	Kansas
-Saginaw	50303	736	Michigan
-Kentwood	50233	737	Michigan
-Doral	50213	738	Florida
-Apple Valley	50201	739	Minnesota
-Grapevine	50195	740	Texas
-Aliso Viejo	50175	741	California
-Sammamish	50169	742	Washington
-Casa Grande	50111	743	Arizona
-Pinellas Park	49998	744	Florida
-Troy	49974	745	New York
-West Sacramento	49891	746	California
-Burien	49858	747	Washington
-Commerce City	49799	748	Colorado
-Monroe	49761	749	Louisiana
-Cerritos	49707	750	California
-Downers Grove	49670	751	Illinois
-Coral Gables	49631	752	Florida
-Wilson	49628	753	North Carolina
-Niagara Falls	49468	754	New York
-Poway	49417	755	California
-Edina	49376	756	Minnesota
-Cuyahoga Falls	49267	757	Ohio
-Rancho Santa Margarita	49228	758	California
-Harrisburg	49188	759	Pennsylvania
-Huntington	49177	760	West Virginia
-La Mirada	49133	761	California
-Cypress	49087	762	California
-Caldwell	48957	763	Idaho
-Logan	48913	764	Utah
-Galveston	48733	765	Texas
-Sheboygan	48725	766	Wisconsin
-Middletown	48630	767	Ohio
-Murray	48612	768	Utah
-Roswell	48611	769	New Mexico
-Parker	48608	770	Colorado
-Bedford	48592	771	Texas
-East Lansing	48554	772	Michigan
-Methuen	48514	773	Massachusetts
-Covina	48508	774	California
-Alexandria	48426	775	Louisiana
-Olympia	48338	776	Washington
-Euclid	48139	777	Ohio
-Mishawaka	47989	778	Indiana
-Salina	47846	779	Kansas
-Azusa	47842	780	California
-Newark	47777	781	Ohio
-Chesterfield	47749	782	Missouri
-Leesburg	47673	783	Virginia
-Dunwoody	47591	784	Georgia
-Hattiesburg	47556	785	Mississippi
-Roseville	47555	786	Michigan
-Bonita Springs	47547	787	Florida
-Portage	47523	788	Michigan
-St. Louis Park	47411	789	Minnesota
-Collierville	47333	790	Tennessee
-Middletown	47333	791	Connecticut
-Stillwater	47186	792	Oklahoma
-East Providence	47149	793	Rhode Island
-Lawrence	47135	794	Indiana
-Wauwatosa	47134	795	Wisconsin
-Mentor	46979	796	Ohio
-Ceres	46714	797	California
-Cedar Hill	46663	798	Texas
-Mansfield	46454	799	Ohio
-Binghamton	46444	800	New York
-Coeur d'Alene	46402	801	Idaho
-San Luis Obispo	46377	802	California
-Minot	46321	803	North Dakota
-Palm Springs	46281	804	California
-Pine Bluff	46094	805	Arkansas
-Texas City	46081	806	Texas
-Summerville	46074	807	South Carolina
-Twin Falls	45981	808	Idaho
-Jeffersonville	45929	809	Indiana
-San Jacinto	45851	810	California
-Madison	45799	811	Alabama
-Altoona	45796	812	Pennsylvania
-Columbus	45775	813	Indiana
-Beavercreek	45712	814	Ohio
-Apopka	45587	815	Florida
-Elmhurst	45556	816	Illinois
-Maricopa	45508	817	Arizona
-Farmington	45426	818	New Mexico
-Glenview	45417	819	Illinois
-Cleveland Heights	45394	820	Ohio
-Draper	45285	821	Utah
-Lincoln	45237	822	California
-Sierra Vista	45129	823	Arizona
-Lacey	44919	824	Washington
-Biloxi	44820	825	Mississippi
-Strongsville	44730	826	Ohio
-Barnstable Town	44641	827	Massachusetts
-Wylie	44575	828	Texas
-Sayreville	44412	829	New Jersey
-Kannapolis	44359	830	North Carolina
-Charlottesville	44349	831	Virginia
-Littleton	44275	832	Colorado
-Titusville	44206	833	Florida
-Hackensack	44113	834	New Jersey
-Newark	44096	835	California
-Pittsfield	44057	836	Massachusetts
-York	43935	837	Pennsylvania
-Lombard	43907	838	Illinois
-Attleboro	43886	839	Massachusetts
-DeKalb	43849	840	Illinois
-Blacksburg	43609	841	Virginia
-Dublin	43607	842	Ohio
-Haltom City	43580	843	Texas
-Lompoc	43509	844	California
-El Centro	43363	845	California
-Danville	43341	846	California
-Jefferson City	43330	847	Missouri
-Cutler Bay	43328	848	Florida
-Oakland Park	43286	849	Florida
-North Miami Beach	43250	850	Florida
-Freeport	43167	851	New York
-Moline	43116	852	Illinois
-Coachella	43092	853	California
-Fort Pierce	43074	854	Florida
-Smyrna	43060	855	Tennessee
-Bountiful	43023	856	Utah
-Fond du Lac	42970	857	Wisconsin
-Everett	42935	858	Massachusetts
-Danville	42907	859	Virginia
-Keller	42907	860	Texas
-Belleville	42895	861	Illinois
-Bell Gardens	42889	862	California
-Cleveland	42774	863	Tennessee
-North Lauderdale	42757	864	Florida
-Fairfield	42635	865	Ohio
-Salem	42544	866	Massachusetts
-Rancho Palos Verdes	42448	867	California
-San Bruno	42443	868	California
-Concord	42419	869	New Hampshire
-Burlington	42284	870	Vermont
-Apex	42214	871	North Carolina
-Midland	42181	872	Michigan
-Altamonte Springs	42150	873	Florida
-Hutchinson	41889	874	Kansas
-Buffalo Grove	41778	875	Illinois
-Urbandale	41776	876	Iowa
-State College	41757	877	Pennsylvania
-Urbana	41752	878	Illinois
-Plainfield	41734	879	Illinois
-Manassas	41705	880	Virginia
-Bartlett	41679	881	Illinois
-Kearny	41664	882	New Jersey
-Oro Valley	41627	883	Arizona
-Findlay	41512	884	Ohio
-Rohnert Park	41398	885	California
-Westfield	41301	887	Massachusetts
-Linden	41301	886	New Jersey
-Sumter	41190	888	South Carolina
-Wilkes-Barre	41108	889	Pennsylvania
-Woonsocket	41026	890	Rhode Island
-Leominster	41002	891	Massachusetts
-Shelton	40999	892	Connecticut
-Brea	40963	893	California
-Covington	40956	894	Kentucky
-Rockwall	40922	895	Texas
-Meridian	40921	896	Mississippi
-Riverton	40921	897	Utah
-St. Cloud	40918	898	Florida
-Quincy	40915	899	Illinois
-Morgan Hill	40836	900	California
-Warren	40768	901	Ohio
-Edmonds	40727	902	Washington
-Burleson	40714	903	Texas
-Beverly	40664	904	Massachusetts
-Mankato	40641	905	Minnesota
-Hagerstown	40612	906	Maryland
-Prescott	40590	907	Arizona
-Campbell	40584	908	California
-Cedar Falls	40566	909	Iowa
-Beaumont	40481	910	California
-La Puente	40435	911	California
-Crystal Lake	40388	912	Illinois
-Fitchburg	40383	913	Massachusetts
-Carol Stream	40379	914	Illinois
-Hickory	40361	915	North Carolina
-Streamwood	40351	916	Illinois
-Norwich	40347	917	Connecticut
-Coppell	40342	918	Texas
-San Gabriel	40275	919	California
-Holyoke	40249	920	Massachusetts
-Bentonville	40167	921	Arkansas
-Florence	40059	922	Alabama
-Peachtree Corners	40059	923	Georgia
-Brentwood	40021	924	Tennessee
-Bozeman	39860	925	Montana
-New Berlin	39834	926	Wisconsin
-Goose Creek	39823	927	South Carolina
-Huntsville	39795	928	Texas
-Prescott Valley	39791	929	Arizona
-Maplewood	39765	930	Minnesota
-Romeoville	39650	931	Illinois
-Duncanville	39605	932	Texas
-Atlantic City	39551	933	New Jersey
-Clovis	39508	934	New Mexico
-The Colony	39458	935	Texas
-Culver City	39428	936	California
-Marlborough	39414	937	Massachusetts
-Hilton Head Island	39412	938	South Carolina
-Moorhead	39398	939	Minnesota
-Calexico	39389	940	California
-Bullhead City	39383	941	Arizona
-Germantown	39375	942	Tennessee
-La Quinta	39331	943	California
-Lancaster	39325	944	Ohio
-Wausau	39309	945	Wisconsin
-Sherman	39296	946	Texas
-Ocoee	39172	947	Florida
-Shakopee	39167	948	Minnesota
-Woburn	39083	949	Massachusetts
-Bremerton	39056	950	Washington
-Rock Island	38877	951	Illinois
-Muskogee	38863	952	Oklahoma
-Cape Girardeau	38816	953	Missouri
-Annapolis	38722	954	Maryland
-Greenacres	38696	955	Florida
-Ormond Beach	38661	956	Florida
-Hallandale Beach	38632	957	Florida
-Stanton	38623	958	California
-Puyallup	38609	959	Washington
-Pacifica	38606	960	California
-Hanover Park	38510	961	Illinois
-Hurst	38448	962	Texas
-Lima	38355	963	Ohio
-Marana	38290	964	Arizona
-Carpentersville	38241	965	Illinois
-Oakley	38194	966	California
-Huber Heights	38142	967	Ohio
-Lancaster	38071	968	Texas
-Montclair	38027	969	California
-Wheeling	38015	970	Illinois
-Brookfield	37999	971	Wisconsin
-Park Ridge	37839	972	Illinois
-Florence	37792	973	South Carolina
-Roy	37733	974	Utah
-Winter Garden	37711	975	Florida
-Chelsea	37670	976	Massachusetts
-Valley Stream	37659	977	New York
-Spartanburg	37647	978	South Carolina
-Lake Oswego	37610	979	Oregon
-Friendswood	37587	980	Texas
-Westerville	37530	981	Ohio
-Northglenn	37499	982	Colorado
-Phenix City	37498	983	Alabama
-Grove City	37490	984	Ohio
-Texarkana	37442	985	Texas
-Addison	37385	986	Illinois
-Dover	37366	987	Delaware
-Lincoln Park	37313	988	Michigan
-Calumet City	37240	989	Illinois
-Muskegon	37213	990	Michigan
-Aventura	37199	991	Florida
-Martinez	37165	992	California
-Greenfield	37159	993	Wisconsin
-Apache Junction	37130	994	Arizona
-Monrovia	37101	995	California
-Weslaco	37093	996	Texas
-Keizer	37064	997	Oregon
-Spanish Fork	36956	998	Utah
-Beloit	36888	999	Wisconsin
-Panama City	36877	1000	Florida
+New York	New York	1	8405837
+Los Angeles	California	2	3884307
+Chicago	Illinois	3	2718782
+Houston	Texas	4	2195914
+Philadelphia	Pennsylvania	5	1553165
+Phoenix	Arizona	6	1513367
+San Antonio	Texas	7	1409019
+San Diego	California	8	1355896
+Dallas	Texas	9	1257676
+San Jose	California	10	998537
+Austin	Texas	11	885400
+Indianapolis	Indiana	12	843393
+Jacksonville	Florida	13	842583
+San Francisco	California	14	837442
+Columbus	Ohio	15	822553
+Charlotte	North Carolina	16	792862
+Fort Worth	Texas	17	792727
+Detroit	Michigan	18	688701
+El Paso	Texas	19	674433
+Memphis	Tennessee	20	653450
+Seattle	Washington	21	652405
+Denver	Colorado	22	649495
+Washington	District of Columbia	23	646449
+Boston	Massachusetts	24	645966
+Nashville-Davidson	Tennessee	25	634464
+Baltimore	Maryland	26	622104
+Oklahoma City	Oklahoma	27	610613
+Louisville/Jefferson County	Kentucky	28	609893
+Portland	Oregon	29	609456
+Las Vegas	Nevada	30	603488
+Milwaukee	Wisconsin	31	599164
+Albuquerque	New Mexico	32	556495
+Tucson	Arizona	33	526116
+Fresno	California	34	509924
+Sacramento	California	35	479686
+Long Beach	California	36	469428
+Kansas City	Missouri	37	467007
+Mesa	Arizona	38	457587
+Virginia Beach	Virginia	39	448479
+Atlanta	Georgia	40	447841
+Colorado Springs	Colorado	41	439886
+Omaha	Nebraska	42	434353
+Raleigh	North Carolina	43	431746
+Miami	Florida	44	417650
+Oakland	California	45	406253
+Minneapolis	Minnesota	46	400070
+Tulsa	Oklahoma	47	398121
+Cleveland	Ohio	48	390113
+Wichita	Kansas	49	386552
+Arlington	Texas	50	379577
+New Orleans	Louisiana	51	378715
+Bakersfield	California	52	363630
+Tampa	Florida	53	352957
+Honolulu	Hawaii	54	347884
+Aurora	Colorado	55	345803
+Anaheim	California	56	345012
+Santa Ana	California	57	334227
+St. Louis	Missouri	58	318416
+Riverside	California	59	316619
+Corpus Christi	Texas	60	316381
+Lexington-Fayette	Kentucky	61	308428
+Pittsburgh	Pennsylvania	62	305841
+Anchorage	Alaska	63	300950
+Stockton	California	64	298118
+Cincinnati	Ohio	65	297517
+St. Paul	Minnesota	66	294873
+Toledo	Ohio	67	282313
+Greensboro	North Carolina	68	279639
+Newark	New Jersey	69	278427
+Plano	Texas	70	274409
+Henderson	Nevada	71	270811
+Lincoln	Nebraska	72	268738
+Buffalo	New York	73	258959
+Jersey City	New Jersey	74	257342
+Chula Vista	California	75	256780
+Fort Wayne	Indiana	76	256496
+Orlando	Florida	77	255483
+St. Petersburg	Florida	78	249688
+Chandler	Arizona	79	249146
+Laredo	Texas	80	248142
+Norfolk	Virginia	81	246139
+Durham	North Carolina	82	245475
+Madison	Wisconsin	83	243344
+Lubbock	Texas	84	239538
+Irvine	California	85	236716
+Winston-Salem	North Carolina	86	236441
+Glendale	Arizona	87	234632
+Garland	Texas	88	234566
+Hialeah	Florida	89	233394
+Reno	Nevada	90	233294
+Chesapeake	Virginia	91	230571
+Gilbert	Arizona	92	229972
+Baton Rouge	Louisiana	93	229426
+Irving	Texas	94	228653
+Scottsdale	Arizona	95	226918
+North Las Vegas	Nevada	96	226877
+Fremont	California	97	224922
+Boise City	Idaho	98	214237
+Richmond	Virginia	99	214114
+San Bernardino	California	100	213708
+Birmingham	Alabama	101	212113
+Spokane	Washington	102	210721
+Rochester	New York	103	210358
+Des Moines	Iowa	104	207510
+Modesto	California	105	204933
+Fayetteville	North Carolina	106	204408
+Tacoma	Washington	107	203446
+Oxnard	California	108	203007
+Fontana	California	109	203003
+Columbus	Georgia	110	202824
+Montgomery	Alabama	111	201332
+Moreno Valley	California	112	201175
+Shreveport	Louisiana	113	200327
+Aurora	Illinois	114	199963
+Yonkers	New York	115	199766
+Akron	Ohio	116	198100
+Huntington Beach	California	117	197575
+Little Rock	Arkansas	118	197357
+Augusta-Richmond County	Georgia	119	197350
+Amarillo	Texas	120	196429
+Glendale	California	121	196021
+Mobile	Alabama	122	194899
+Grand Rapids	Michigan	123	192294
+Salt Lake City	Utah	124	191180
+Tallahassee	Florida	125	186411
+Huntsville	Alabama	126	186254
+Grand Prairie	Texas	127	183372
+Knoxville	Tennessee	128	183270
+Worcester	Massachusetts	129	182544
+Newport News	Virginia	130	182020
+Brownsville	Texas	131	181860
+Overland Park	Kansas	132	181260
+Santa Clarita	California	133	179590
+Providence	Rhode Island	134	177994
+Garden Grove	California	135	175140
+Chattanooga	Tennessee	136	173366
+Oceanside	California	137	172794
+Jackson	Mississippi	138	172638
+Fort Lauderdale	Florida	139	172389
+Santa Rosa	California	140	171990
+Rancho Cucamonga	California	141	171386
+Port St. Lucie	Florida	142	171016
+Tempe	Arizona	143	168228
+Ontario	California	144	167500
+Vancouver	Washington	145	167405
+Cape Coral	Florida	146	165831
+Sioux Falls	South Dakota	147	164676
+Springfield	Missouri	148	164122
+Peoria	Arizona	149	162592
+Pembroke Pines	Florida	150	162329
+Elk Grove	California	151	161007
+Salem	Oregon	152	160614
+Lancaster	California	153	159523
+Corona	California	154	159503
+Eugene	Oregon	155	159190
+Palmdale	California	156	157161
+Salinas	California	157	155662
+Springfield	Massachusetts	158	153703
+Pasadena	Texas	159	152735
+Fort Collins	Colorado	160	152061
+Hayward	California	161	151574
+Pomona	California	162	151348
+Cary	North Carolina	163	151088
+Rockford	Illinois	164	150251
+Alexandria	Virginia	165	148892
+Escondido	California	166	148738
+McKinney	Texas	167	148559
+Kansas City	Kansas	168	148483
+Joliet	Illinois	169	147806
+Sunnyvale	California	170	147559
+Torrance	California	171	147478
+Bridgeport	Connecticut	172	147216
+Lakewood	Colorado	173	147214
+Hollywood	Florida	174	146526
+Paterson	New Jersey	175	145948
+Naperville	Illinois	176	144864
+Syracuse	New York	177	144669
+Mesquite	Texas	178	143484
+Dayton	Ohio	179	143355
+Savannah	Georgia	180	142772
+Clarksville	Tennessee	181	142357
+Orange	California	182	139969
+Pasadena	California	183	139731
+Fullerton	California	184	138981
+Killeen	Texas	185	137147
+Frisco	Texas	186	136791
+Hampton	Virginia	187	136699
+McAllen	Texas	188	136639
+Warren	Michigan	189	134873
+Bellevue	Washington	190	133992
+West Valley City	Utah	191	133579
+Columbia	South Carolina	192	133358
+Olathe	Kansas	193	131885
+Sterling Heights	Michigan	194	131224
+New Haven	Connecticut	195	130660
+Miramar	Florida	196	130288
+Waco	Texas	197	129030
+Thousand Oaks	California	198	128731
+Cedar Rapids	Iowa	199	128429
+Charleston	South Carolina	200	127999
+Visalia	California	201	127763
+Topeka	Kansas	202	127679
+Elizabeth	New Jersey	203	127558
+Gainesville	Florida	204	127488
+Thornton	Colorado	205	127359
+Roseville	California	206	127035
+Carrollton	Texas	207	126700
+Coral Springs	Florida	208	126604
+Stamford	Connecticut	209	126456
+Simi Valley	California	210	126181
+Concord	California	211	125880
+Hartford	Connecticut	212	125017
+Kent	Washington	213	124435
+Lafayette	Louisiana	214	124276
+Midland	Texas	215	123933
+Surprise	Arizona	216	123546
+Denton	Texas	217	123099
+Victorville	California	218	121096
+Evansville	Indiana	219	120310
+Santa Clara	California	220	120245
+Abilene	Texas	221	120099
+Athens-Clarke County	Georgia	222	119980
+Vallejo	California	223	118837
+Allentown	Pennsylvania	224	118577
+Norman	Oklahoma	225	118197
+Beaumont	Texas	226	117796
+Independence	Missouri	227	117240
+Murfreesboro	Tennessee	228	117044
+Ann Arbor	Michigan	229	117025
+Springfield	Illinois	230	117006
+Berkeley	California	231	116768
+Peoria	Illinois	232	116513
+Provo	Utah	233	116288
+El Monte	California	234	115708
+Columbia	Missouri	235	115276
+Lansing	Michigan	236	113972
+Fargo	North Dakota	237	113658
+Downey	California	238	113242
+Costa Mesa	California	239	112174
+Wilmington	North Carolina	240	112067
+Arvada	Colorado	241	111707
+Inglewood	California	242	111542
+Miami Gardens	Florida	243	111378
+Carlsbad	California	244	110972
+Westminster	Colorado	245	110945
+Rochester	Minnesota	246	110742
+Odessa	Texas	247	110720
+Manchester	New Hampshire	248	110378
+Elgin	Illinois	249	110145
+West Jordan	Utah	250	110077
+Round Rock	Texas	251	109821
+Clearwater	Florida	252	109703
+Waterbury	Connecticut	253	109676
+Gresham	Oregon	254	109397
+Fairfield	California	255	109320
+Billings	Montana	256	109059
+Lowell	Massachusetts	257	108861
+San Buenaventura (Ventura)	California	258	108817
+Pueblo	Colorado	259	108249
+High Point	North Carolina	260	107741
+West Covina	California	261	107740
+Richmond	California	262	107571
+Murrieta	California	263	107479
+Cambridge	Massachusetts	264	107289
+Antioch	California	265	107100
+Temecula	California	266	106780
+Norwalk	California	267	106589
+Centennial	Colorado	268	106114
+Everett	Washington	269	105370
+Palm Bay	Florida	270	104898
+Wichita Falls	Texas	271	104898
+Green Bay	Wisconsin	272	104779
+Daly City	California	273	104739
+Burbank	California	274	104709
+Richardson	Texas	275	104475
+Pompano Beach	Florida	276	104410
+North Charleston	South Carolina	277	104054
+Broken Arrow	Oklahoma	278	103500
+Boulder	Colorado	279	103166
+West Palm Beach	Florida	280	102436
+Santa Maria	California	281	102216
+El Cajon	California	282	102211
+Davenport	Iowa	283	102157
+Rialto	California	284	101910
+Las Cruces	New Mexico	285	101324
+San Mateo	California	286	101128
+Lewisville	Texas	287	101074
+South Bend	Indiana	288	100886
+Lakeland	Florida	289	100710
+Erie	Pennsylvania	290	100671
+Tyler	Texas	291	100223
+Pearland	Texas	292	100065
+College Station	Texas	293	100050
+Kenosha	Wisconsin	294	99889
+Sandy Springs	Georgia	295	99770
+Clovis	California	296	99769
+Flint	Michigan	297	99763
+Roanoke	Virginia	298	98465
+Albany	New York	299	98424
+Jurupa Valley	California	300	98030
+Compton	California	301	97877
+San Angelo	Texas	302	97492
+Hillsboro	Oregon	303	97368
+Lawton	Oklahoma	304	97151
+Renton	Washington	305	97003
+Vista	California	306	96929
+Davie	Florida	307	96830
+Greeley	Colorado	308	96539
+Mission Viejo	California	309	96346
+Portsmouth	Virginia	310	96205
+Dearborn	Michigan	311	95884
+South Gate	California	312	95677
+Tuscaloosa	Alabama	313	95334
+Livonia	Michigan	314	95208
+New Bedford	Massachusetts	315	95078
+Vacaville	California	316	94275
+Brockton	Massachusetts	317	94089
+Roswell	Georgia	318	94034
+Beaverton	Oregon	319	93542
+Quincy	Massachusetts	320	93494
+Sparks	Nevada	321	93282
+Yakima	Washington	322	93257
+Lee's Summit	Missouri	323	93184
+Federal Way	Washington	324	92734
+Carson	California	325	92599
+Santa Monica	California	326	92472
+Hesperia	California	327	92147
+Allen	Texas	328	92020
+Rio Rancho	New Mexico	329	91956
+Yuma	Arizona	330	91923
+Westminster	California	331	91739
+Orem	Utah	332	91648
+Lynn	Massachusetts	333	91589
+Redding	California	334	91119
+Spokane Valley	Washington	335	91113
+Miami Beach	Florida	336	91026
+League City	Texas	337	90983
+Lawrence	Kansas	338	90811
+Santa Barbara	California	339	90412
+Plantation	Florida	340	90268
+Sandy	Utah	341	90231
+Sunrise	Florida	342	90116
+Macon	Georgia	343	89981
+Longmont	Colorado	344	89919
+Boca Raton	Florida	345	89407
+San Marcos	California	346	89387
+Greenville	North Carolina	347	89130
+Waukegan	Illinois	348	88826
+Fall River	Massachusetts	349	88697
+Chico	California	350	88077
+Newton	Massachusetts	351	87971
+San Leandro	California	352	87965
+Reading	Pennsylvania	353	87893
+Norwalk	Connecticut	354	87776
+Fort Smith	Arkansas	355	87650
+Newport Beach	California	356	87273
+Asheville	North Carolina	357	87236
+Nashua	New Hampshire	358	87137
+Edmond	Oklahoma	359	87004
+Whittier	California	360	86635
+Nampa	Idaho	361	86518
+Bloomington	Minnesota	362	86319
+Deltona	Florida	363	86290
+Hawthorne	California	364	86199
+Duluth	Minnesota	365	86128
+Carmel	Indiana	366	85927
+Suffolk	Virginia	367	85728
+Clifton	New Jersey	368	85390
+Citrus Heights	California	369	85285
+Livermore	California	370	85156
+Tracy	California	371	84691
+Alhambra	California	372	84577
+Kirkland	Washington	373	84430
+Trenton	New Jersey	374	84349
+Ogden	Utah	375	84249
+Hoover	Alabama	376	84126
+Cicero	Illinois	377	84103
+Fishers	Indiana	378	83891
+Sugar Land	Texas	379	83860
+Danbury	Connecticut	380	83684
+Meridian	Idaho	381	83596
+Indio	California	382	83539
+Concord	North Carolina	383	83506
+Menifee	California	384	83447
+Champaign	Illinois	385	83424
+Buena Park	California	386	82882
+Troy	Michigan	387	82821
+O'Fallon	Missouri	388	82809
+Johns Creek	Georgia	389	82788
+Bellingham	Washington	390	82631
+Westland	Michigan	391	82578
+Bloomington	Indiana	392	82575
+Sioux City	Iowa	393	82459
+Warwick	Rhode Island	394	81971
+Hemet	California	395	81750
+Longview	Texas	396	81443
+Farmington Hills	Michigan	397	81295
+Bend	Oregon	398	81236
+Lakewood	California	399	81121
+Merced	California	400	81102
+Mission	Texas	401	81050
+Chino	California	402	80988
+Redwood City	California	403	80872
+Edinburg	Texas	404	80836
+Cranston	Rhode Island	405	80566
+Parma	Ohio	406	80429
+New Rochelle	New York	407	79446
+Lake Forest	California	408	79312
+Napa	California	409	79068
+Hammond	Indiana	410	78967
+Fayetteville	Arkansas	411	78960
+Bloomington	Illinois	412	78902
+Avondale	Arizona	413	78822
+Somerville	Massachusetts	414	78804
+Palm Coast	Florida	415	78740
+Bryan	Texas	416	78709
+Gary	Indiana	417	78450
+Largo	Florida	418	78409
+Brooklyn Park	Minnesota	419	78373
+Tustin	California	420	78327
+Racine	Wisconsin	421	78199
+Deerfield Beach	Florida	422	78041
+Lynchburg	Virginia	423	78014
+Mountain View	California	424	77846
+Medford	Oregon	425	77677
+Lawrence	Massachusetts	426	77657
+Bellflower	California	427	77593
+Melbourne	Florida	428	77508
+St. Joseph	Missouri	429	77147
+Camden	New Jersey	430	76903
+St. George	Utah	431	76817
+Kennewick	Washington	432	76762
+Baldwin Park	California	433	76635
+Chino Hills	California	434	76572
+Alameda	California	435	76419
+Albany	Georgia	436	76185
+Arlington Heights	Illinois	437	75994
+Scranton	Pennsylvania	438	75806
+Evanston	Illinois	439	75570
+Kalamazoo	Michigan	440	75548
+Baytown	Texas	441	75418
+Upland	California	442	75413
+Springdale	Arkansas	443	75229
+Bethlehem	Pennsylvania	444	75018
+Schaumburg	Illinois	445	74907
+Mount Pleasant	South Carolina	446	74885
+Auburn	Washington	447	74860
+Decatur	Illinois	448	74710
+San Ramon	California	449	74513
+Pleasanton	California	450	74110
+Wyoming	Michigan	451	74100
+Lake Charles	Louisiana	452	74024
+Plymouth	Minnesota	453	73987
+Bolingbrook	Illinois	454	73936
+Pharr	Texas	455	73790
+Appleton	Wisconsin	456	73596
+Gastonia	North Carolina	457	73209
+Folsom	California	458	73098
+Southfield	Michigan	459	73006
+Rochester Hills	Michigan	460	72952
+New Britain	Connecticut	461	72939
+Goodyear	Arizona	462	72864
+Canton	Ohio	463	72535
+Warner Robins	Georgia	464	72531
+Union City	California	465	72528
+Perris	California	466	72326
+Manteca	California	467	71948
+Iowa City	Iowa	468	71591
+Jonesboro	Arkansas	469	71551
+Wilmington	Delaware	470	71525
+Lynwood	California	471	71371
+Loveland	Colorado	472	71334
+Pawtucket	Rhode Island	473	71172
+Boynton Beach	Florida	474	71097
+Waukesha	Wisconsin	475	71016
+Gulfport	Mississippi	476	71012
+Apple Valley	California	477	70924
+Passaic	New Jersey	478	70868
+Rapid City	South Dakota	479	70812
+Layton	Utah	480	70790
+Lafayette	Indiana	481	70373
+Turlock	California	482	70365
+Muncie	Indiana	483	70316
+Temple	Texas	484	70190
+Missouri City	Texas	485	70185
+Redlands	California	486	69999
+Santa Fe	New Mexico	487	69976
+Lauderhill	Florida	488	69813
+Milpitas	California	489	69783
+Palatine	Illinois	490	69350
+Missoula	Montana	491	69122
+Rock Hill	South Carolina	492	69103
+Jacksonville	North Carolina	493	69079
+Franklin	Tennessee	494	68886
+Flagstaff	Arizona	495	68667
+Flower Mound	Texas	496	68609
+Weston	Florida	497	68388
+Waterloo	Iowa	498	68366
+Union City	New Jersey	499	68247
+Mount Vernon	New York	500	68224
+Fort Myers	Florida	501	68190
+Dothan	Alabama	502	68001
+Rancho Cordova	California	503	67911
+Redondo Beach	California	504	67815
+Jackson	Tennessee	505	67685
+Pasco	Washington	506	67599
+St. Charles	Missouri	507	67569
+Eau Claire	Wisconsin	508	67545
+North Richland Hills	Texas	509	67317
+Bismarck	North Dakota	510	67034
+Yorba Linda	California	511	67032
+Kenner	Louisiana	512	66975
+Walnut Creek	California	513	66900
+Frederick	Maryland	514	66893
+Oshkosh	Wisconsin	515	66778
+Pittsburg	California	516	66695
+Palo Alto	California	517	66642
+Bossier City	Louisiana	518	66333
+Portland	Maine	519	66318
+St. Cloud	Minnesota	520	66297
+Davis	California	521	66205
+South San Francisco	California	522	66174
+Camarillo	California	523	66086
+North Little Rock	Arkansas	524	66075
+Schenectady	New York	525	65902
+Gaithersburg	Maryland	526	65690
+Harlingen	Texas	527	65665
+Woodbury	Minnesota	528	65656
+Eagan	Minnesota	529	65453
+Yuba City	California	530	65416
+Maple Grove	Minnesota	531	65415
+Youngstown	Ohio	532	65184
+Skokie	Illinois	533	65176
+Kissimmee	Florida	534	65173
+Johnson City	Tennessee	535	65123
+Victoria	Texas	536	65098
+San Clemente	California	537	65040
+Bayonne	New Jersey	538	65028
+Laguna Niguel	California	539	64652
+East Orange	New Jersey	540	64544
+Shawnee	Kansas	541	64323
+Homestead	Florida	542	64079
+Rockville	Maryland	544	64072
+Delray Beach	Florida	543	64072
+Janesville	Wisconsin	545	63820
+Conway	Arkansas	546	63816
+Pico Rivera	California	547	63771
+Lorain	Ohio	548	63710
+Montebello	California	549	63495
+Lodi	California	550	63338
+New Braunfels	Texas	551	63279
+Marysville	Washington	552	63269
+Tamarac	Florida	553	63155
+Madera	California	554	63105
+Conroe	Texas	555	63032
+Santa Cruz	California	556	62864
+Eden Prairie	Minnesota	557	62603
+Cheyenne	Wyoming	558	62448
+Daytona Beach	Florida	559	62316
+Alpharetta	Georgia	560	62298
+Hamilton	Ohio	561	62258
+Waltham	Massachusetts	562	62227
+Coon Rapids	Minnesota	563	62103
+Haverhill	Massachusetts	564	62088
+Council Bluffs	Iowa	565	61969
+Taylor	Michigan	566	61817
+Utica	New York	567	61808
+Ames	Iowa	568	61792
+La Habra	California	569	61653
+Encinitas	California	570	61588
+Bowling Green	Kentucky	571	61488
+Burnsville	Minnesota	572	61434
+Greenville	South Carolina	573	61397
+West Des Moines	Iowa	574	61255
+Cedar Park	Texas	575	61238
+Tulare	California	576	61170
+Monterey Park	California	577	61085
+Vineland	New Jersey	578	61050
+Terre Haute	Indiana	579	61025
+North Miami	Florida	580	61007
+Mansfield	Texas	581	60872
+West Allis	Wisconsin	582	60697
+Bristol	Connecticut	583	60568
+Taylorsville	Utah	584	60519
+Malden	Massachusetts	585	60509
+Meriden	Connecticut	586	60456
+Blaine	Minnesota	587	60407
+Wellington	Florida	588	60202
+Cupertino	California	589	60189
+Springfield	Oregon	590	60177
+Rogers	Arkansas	591	60112
+St. Clair Shores	Michigan	592	60070
+Gardena	California	593	59957
+Pontiac	Michigan	594	59887
+National City	California	595	59834
+Grand Junction	Colorado	596	59778
+Rocklin	California	597	59738
+Chapel Hill	North Carolina	598	59635
+Casper	Wyoming	599	59628
+Broomfield	Colorado	600	59471
+Petaluma	California	601	59440
+South Jordan	Utah	602	59366
+Springfield	Ohio	603	59357
+Great Falls	Montana	604	59351
+Lancaster	Pennsylvania	605	59325
+North Port	Florida	606	59212
+Lakewood	Washington	607	59097
+Marietta	Georgia	608	59089
+San Rafael	California	609	58994
+Royal Oak	Michigan	610	58946
+Des Plaines	Illinois	611	58918
+Huntington Park	California	612	58879
+La Mesa	California	613	58642
+Orland Park	Illinois	614	58590
+Auburn	Alabama	615	58582
+Lakeville	Minnesota	616	58562
+Owensboro	Kentucky	617	58416
+Moore	Oklahoma	618	58414
+Jupiter	Florida	619	58298
+Idaho Falls	Idaho	620	58292
+Dubuque	Iowa	621	58253
+Bartlett	Tennessee	622	58226
+Rowlett	Texas	623	58043
+Novi	Michigan	624	57960
+White Plains	New York	625	57866
+Arcadia	California	626	57639
+Redmond	Washington	627	57530
+Lake Elsinore	California	628	57525
+Ocala	Florida	629	57468
+Tinley Park	Illinois	630	57282
+Port Orange	Florida	631	57203
+Medford	Massachusetts	632	57170
+Oak Lawn	Illinois	633	57073
+Rocky Mount	North Carolina	634	56954
+Kokomo	Indiana	635	56895
+Coconut Creek	Florida	636	56792
+Bowie	Maryland	637	56759
+Berwyn	Illinois	638	56758
+Midwest City	Oklahoma	639	56756
+Fountain Valley	California	640	56707
+Buckeye	Arizona	641	56683
+Dearborn Heights	Michigan	642	56620
+Woodland	California	643	56590
+Noblesville	Indiana	644	56540
+Valdosta	Georgia	645	56481
+Diamond Bar	California	646	56449
+Manhattan	Kansas	647	56143
+Santee	California	648	56105
+Taunton	Massachusetts	649	56069
+Sanford	Florida	650	56002
+Kettering	Ohio	651	55870
+New Brunswick	New Jersey	652	55831
+Decatur	Alabama	653	55816
+Chicopee	Massachusetts	654	55717
+Anderson	Indiana	655	55670
+Margate	Florida	656	55456
+Weymouth Town	Massachusetts	657	55419
+Hempstead	New York	658	55361
+Corvallis	Oregon	659	55298
+Eastvale	California	660	55191
+Porterville	California	661	55174
+West Haven	Connecticut	662	55046
+Brentwood	California	663	55000
+Paramount	California	664	54980
+Grand Forks	North Dakota	665	54932
+Georgetown	Texas	666	54898
+St. Peters	Missouri	667	54842
+Shoreline	Washington	668	54790
+Mount Prospect	Illinois	669	54771
+Hanford	California	670	54686
+Normal	Illinois	671	54664
+Rosemead	California	672	54561
+Lehi	Utah	673	54382
+Pocatello	Idaho	674	54350
+Highland	California	675	54291
+Novato	California	676	54194
+Port Arthur	Texas	677	54135
+Carson City	Nevada	678	54080
+San Marcos	Texas	679	54076
+Hendersonville	Tennessee	680	54068
+Elyria	Ohio	681	53956
+Revere	Massachusetts	682	53756
+Pflugerville	Texas	683	53752
+Greenwood	Indiana	684	53665
+Bellevue	Nebraska	685	53663
+Wheaton	Illinois	686	53648
+Smyrna	Georgia	687	53438
+Sarasota	Florida	688	53326
+Blue Springs	Missouri	689	53294
+Colton	California	690	53243
+Euless	Texas	691	53224
+Castle Rock	Colorado	692	53063
+Cathedral City	California	693	52977
+Kingsport	Tennessee	694	52962
+Lake Havasu City	Arizona	695	52844
+Pensacola	Florida	696	52703
+Hoboken	New Jersey	697	52575
+Yucaipa	California	698	52536
+Watsonville	California	699	52477
+Richland	Washington	700	52413
+Delano	California	701	52403
+Hoffman Estates	Illinois	702	52398
+Florissant	Missouri	703	52363
+Placentia	California	704	52206
+West New York	New Jersey	705	52122
+Dublin	California	706	52105
+Oak Park	Illinois	707	52066
+Peabody	Massachusetts	708	52044
+Perth Amboy	New Jersey	709	51982
+Battle Creek	Michigan	710	51848
+Bradenton	Florida	711	51763
+Gilroy	California	712	51701
+Milford	Connecticut	713	51644
+Albany	Oregon	714	51583
+Ankeny	Iowa	715	51567
+La Crosse	Wisconsin	716	51522
+Burlington	North Carolina	717	51510
+DeSoto	Texas	718	51483
+Harrisonburg	Virginia	719	51395
+Minnetonka	Minnesota	720	51368
+Elkhart	Indiana	721	51265
+Lakewood	Ohio	722	51143
+Glendora	California	723	51074
+Southaven	Mississippi	724	50997
+Charleston	West Virginia	725	50821
+Joplin	Missouri	726	50789
+Enid	Oklahoma	727	50725
+Palm Beach Gardens	Florida	728	50699
+Brookhaven	Georgia	729	50603
+Plainfield	New Jersey	730	50588
+Grand Island	Nebraska	731	50550
+Palm Desert	California	732	50508
+Huntersville	North Carolina	733	50458
+Tigard	Oregon	734	50444
+Lenexa	Kansas	735	50344
+Saginaw	Michigan	736	50303
+Kentwood	Michigan	737	50233
+Doral	Florida	738	50213
+Apple Valley	Minnesota	739	50201
+Grapevine	Texas	740	50195
+Aliso Viejo	California	741	50175
+Sammamish	Washington	742	50169
+Casa Grande	Arizona	743	50111
+Pinellas Park	Florida	744	49998
+Troy	New York	745	49974
+West Sacramento	California	746	49891
+Burien	Washington	747	49858
+Commerce City	Colorado	748	49799
+Monroe	Louisiana	749	49761
+Cerritos	California	750	49707
+Downers Grove	Illinois	751	49670
+Coral Gables	Florida	752	49631
+Wilson	North Carolina	753	49628
+Niagara Falls	New York	754	49468
+Poway	California	755	49417
+Edina	Minnesota	756	49376
+Cuyahoga Falls	Ohio	757	49267
+Rancho Santa Margarita	California	758	49228
+Harrisburg	Pennsylvania	759	49188
+Huntington	West Virginia	760	49177
+La Mirada	California	761	49133
+Cypress	California	762	49087
+Caldwell	Idaho	763	48957
+Logan	Utah	764	48913
+Galveston	Texas	765	48733
+Sheboygan	Wisconsin	766	48725
+Middletown	Ohio	767	48630
+Murray	Utah	768	48612
+Roswell	New Mexico	769	48611
+Parker	Colorado	770	48608
+Bedford	Texas	771	48592
+East Lansing	Michigan	772	48554
+Methuen	Massachusetts	773	48514
+Covina	California	774	48508
+Alexandria	Louisiana	775	48426
+Olympia	Washington	776	48338
+Euclid	Ohio	777	48139
+Mishawaka	Indiana	778	47989
+Salina	Kansas	779	47846
+Azusa	California	780	47842
+Newark	Ohio	781	47777
+Chesterfield	Missouri	782	47749
+Leesburg	Virginia	783	47673
+Dunwoody	Georgia	784	47591
+Hattiesburg	Mississippi	785	47556
+Roseville	Michigan	786	47555
+Bonita Springs	Florida	787	47547
+Portage	Michigan	788	47523
+St. Louis Park	Minnesota	789	47411
+Collierville	Tennessee	790	47333
+Middletown	Connecticut	791	47333
+Stillwater	Oklahoma	792	47186
+East Providence	Rhode Island	793	47149
+Lawrence	Indiana	794	47135
+Wauwatosa	Wisconsin	795	47134
+Mentor	Ohio	796	46979
+Ceres	California	797	46714
+Cedar Hill	Texas	798	46663
+Mansfield	Ohio	799	46454
+Binghamton	New York	800	46444
+Coeur d'Alene	Idaho	801	46402
+San Luis Obispo	California	802	46377
+Minot	North Dakota	803	46321
+Palm Springs	California	804	46281
+Pine Bluff	Arkansas	805	46094
+Texas City	Texas	806	46081
+Summerville	South Carolina	807	46074
+Twin Falls	Idaho	808	45981
+Jeffersonville	Indiana	809	45929
+San Jacinto	California	810	45851
+Madison	Alabama	811	45799
+Altoona	Pennsylvania	812	45796
+Columbus	Indiana	813	45775
+Beavercreek	Ohio	814	45712
+Apopka	Florida	815	45587
+Elmhurst	Illinois	816	45556
+Maricopa	Arizona	817	45508
+Farmington	New Mexico	818	45426
+Glenview	Illinois	819	45417
+Cleveland Heights	Ohio	820	45394
+Draper	Utah	821	45285
+Lincoln	California	822	45237
+Sierra Vista	Arizona	823	45129
+Lacey	Washington	824	44919
+Biloxi	Mississippi	825	44820
+Strongsville	Ohio	826	44730
+Barnstable Town	Massachusetts	827	44641
+Wylie	Texas	828	44575
+Sayreville	New Jersey	829	44412
+Kannapolis	North Carolina	830	44359
+Charlottesville	Virginia	831	44349
+Littleton	Colorado	832	44275
+Titusville	Florida	833	44206
+Hackensack	New Jersey	834	44113
+Newark	California	835	44096
+Pittsfield	Massachusetts	836	44057
+York	Pennsylvania	837	43935
+Lombard	Illinois	838	43907
+Attleboro	Massachusetts	839	43886
+DeKalb	Illinois	840	43849
+Blacksburg	Virginia	841	43609
+Dublin	Ohio	842	43607
+Haltom City	Texas	843	43580
+Lompoc	California	844	43509
+El Centro	California	845	43363
+Danville	California	846	43341
+Jefferson City	Missouri	847	43330
+Cutler Bay	Florida	848	43328
+Oakland Park	Florida	849	43286
+North Miami Beach	Florida	850	43250
+Freeport	New York	851	43167
+Moline	Illinois	852	43116
+Coachella	California	853	43092
+Fort Pierce	Florida	854	43074
+Smyrna	Tennessee	855	43060
+Bountiful	Utah	856	43023
+Fond du Lac	Wisconsin	857	42970
+Everett	Massachusetts	858	42935
+Danville	Virginia	859	42907
+Keller	Texas	860	42907
+Belleville	Illinois	861	42895
+Bell Gardens	California	862	42889
+Cleveland	Tennessee	863	42774
+North Lauderdale	Florida	864	42757
+Fairfield	Ohio	865	42635
+Salem	Massachusetts	866	42544
+Rancho Palos Verdes	California	867	42448
+San Bruno	California	868	42443
+Concord	New Hampshire	869	42419
+Burlington	Vermont	870	42284
+Apex	North Carolina	871	42214
+Midland	Michigan	872	42181
+Altamonte Springs	Florida	873	42150
+Hutchinson	Kansas	874	41889
+Buffalo Grove	Illinois	875	41778
+Urbandale	Iowa	876	41776
+State College	Pennsylvania	877	41757
+Urbana	Illinois	878	41752
+Plainfield	Illinois	879	41734
+Manassas	Virginia	880	41705
+Bartlett	Illinois	881	41679
+Kearny	New Jersey	882	41664
+Oro Valley	Arizona	883	41627
+Findlay	Ohio	884	41512
+Rohnert Park	California	885	41398
+Westfield	Massachusetts	887	41301
+Linden	New Jersey	886	41301
+Sumter	South Carolina	888	41190
+Wilkes-Barre	Pennsylvania	889	41108
+Woonsocket	Rhode Island	890	41026
+Leominster	Massachusetts	891	41002
+Shelton	Connecticut	892	40999
+Brea	California	893	40963
+Covington	Kentucky	894	40956
+Rockwall	Texas	895	40922
+Meridian	Mississippi	896	40921
+Riverton	Utah	897	40921
+St. Cloud	Florida	898	40918
+Quincy	Illinois	899	40915
+Morgan Hill	California	900	40836
+Warren	Ohio	901	40768
+Edmonds	Washington	902	40727
+Burleson	Texas	903	40714
+Beverly	Massachusetts	904	40664
+Mankato	Minnesota	905	40641
+Hagerstown	Maryland	906	40612
+Prescott	Arizona	907	40590
+Campbell	California	908	40584
+Cedar Falls	Iowa	909	40566
+Beaumont	California	910	40481
+La Puente	California	911	40435
+Crystal Lake	Illinois	912	40388
+Fitchburg	Massachusetts	913	40383
+Carol Stream	Illinois	914	40379
+Hickory	North Carolina	915	40361
+Streamwood	Illinois	916	40351
+Norwich	Connecticut	917	40347
+Coppell	Texas	918	40342
+San Gabriel	California	919	40275
+Holyoke	Massachusetts	920	40249
+Bentonville	Arkansas	921	40167
+Florence	Alabama	922	40059
+Peachtree Corners	Georgia	923	40059
+Brentwood	Tennessee	924	40021
+Bozeman	Montana	925	39860
+New Berlin	Wisconsin	926	39834
+Goose Creek	South Carolina	927	39823
+Huntsville	Texas	928	39795
+Prescott Valley	Arizona	929	39791
+Maplewood	Minnesota	930	39765
+Romeoville	Illinois	931	39650
+Duncanville	Texas	932	39605
+Atlantic City	New Jersey	933	39551
+Clovis	New Mexico	934	39508
+The Colony	Texas	935	39458
+Culver City	California	936	39428
+Marlborough	Massachusetts	937	39414
+Hilton Head Island	South Carolina	938	39412
+Moorhead	Minnesota	939	39398
+Calexico	California	940	39389
+Bullhead City	Arizona	941	39383
+Germantown	Tennessee	942	39375
+La Quinta	California	943	39331
+Lancaster	Ohio	944	39325
+Wausau	Wisconsin	945	39309
+Sherman	Texas	946	39296
+Ocoee	Florida	947	39172
+Shakopee	Minnesota	948	39167
+Woburn	Massachusetts	949	39083
+Bremerton	Washington	950	39056
+Rock Island	Illinois	951	38877
+Muskogee	Oklahoma	952	38863
+Cape Girardeau	Missouri	953	38816
+Annapolis	Maryland	954	38722
+Greenacres	Florida	955	38696
+Ormond Beach	Florida	956	38661
+Hallandale Beach	Florida	957	38632
+Stanton	California	958	38623
+Puyallup	Washington	959	38609
+Pacifica	California	960	38606
+Hanover Park	Illinois	961	38510
+Hurst	Texas	962	38448
+Lima	Ohio	963	38355
+Marana	Arizona	964	38290
+Carpentersville	Illinois	965	38241
+Oakley	California	966	38194
+Huber Heights	Ohio	967	38142
+Lancaster	Texas	968	38071
+Montclair	California	969	38027
+Wheeling	Illinois	970	38015
+Brookfield	Wisconsin	971	37999
+Park Ridge	Illinois	972	37839
+Florence	South Carolina	973	37792
+Roy	Utah	974	37733
+Winter Garden	Florida	975	37711
+Chelsea	Massachusetts	976	37670
+Valley Stream	New York	977	37659
+Spartanburg	South Carolina	978	37647
+Lake Oswego	Oregon	979	37610
+Friendswood	Texas	980	37587
+Westerville	Ohio	981	37530
+Northglenn	Colorado	982	37499
+Phenix City	Alabama	983	37498
+Grove City	Ohio	984	37490
+Texarkana	Texas	985	37442
+Addison	Illinois	986	37385
+Dover	Delaware	987	37366
+Lincoln Park	Michigan	988	37313
+Calumet City	Illinois	989	37240
+Muskegon	Michigan	990	37213
+Aventura	Florida	991	37199
+Martinez	California	992	37165
+Greenfield	Wisconsin	993	37159
+Apache Junction	Arizona	994	37130
+Monrovia	California	995	37101
+Weslaco	Texas	996	37093
+Keizer	Oregon	997	37064
+Spanish Fork	Utah	998	36956
+Beloit	Wisconsin	999	36888
+Panama City	Florida	1000	36877
